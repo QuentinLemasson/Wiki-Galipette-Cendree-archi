@@ -9,7 +9,7 @@ const HomePage = (props: Props) => {
     <Layout>
       <section className='mt-32'>
         <div>This is the "Galipette Cendrée Wiki HomePage"</div>
-        <Link href="/Pillier/Combat">Mode de jeu - Combat</Link>
+        <Link href="/Jeu/Combat">Mode de jeu - Combat</Link>
       </section>
     </Layout>
   )
